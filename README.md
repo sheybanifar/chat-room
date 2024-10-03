@@ -12,5 +12,8 @@ get together and turn on a mobile hotspot. connect your machines(laptops) to it 
 <h2>Requirements</h2><br>
 <p>Just a python interpreter</p>
 
+<h2>Program Diagram</h2><br>
+<img src='./Program Diagram.jpg'><br>
+
 <h2>Do not forget!</h2><br>
 <p>if you are expert, give me some guides to optimize my sights and codes. I appreciate it.</p>
