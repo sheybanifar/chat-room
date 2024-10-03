@@ -6,17 +6,12 @@
 <li> <b>Client.py</b>
 <p>you can run <b>Server.py</b> an a mechine and give <b>Client.py</b> to your friends.
 get together and turn on a mobile hotspot. connect your machines(laptops) to it and after to ensure installing Python interpreter on your laptops, you can now run <b>Server.py</b> and configure it, then run <b>Client.py</b> and take enjoy from being together!
-</p>
-
-<h2>Requirements</h2><br>
-<p>Just a python interpreter</p>
+</p><br>
 
 <h2>Program Diagram</h2><br>
 <img src='./Program Diagram.jpg'><br>
 
-<h2>Do not forget!</h2><br>
-<p>if you are expert, give me some guides to optimize my sights and codes. I appreciate it.</p>
 <h2>Requirements</h2>
-<p>Just a <a href="https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe">python interpreter</a></p>
+<p>Just a <a href="https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe">python interpreter</a></p><br>
 <h2>Do not forget!</h2>
 <p>if you are expert, give me some guides to optimize my sights and codes. I appreciate it.</p>
