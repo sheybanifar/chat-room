@@ -12,6 +12,6 @@ get together and turn on a mobile hotspot. connect your machines(laptops) to it 
 <img src='./Program Diagram.jpg'><br>
 
 <h2>Requirements</h2>
-<p>Just a <a href="https://www.python.org/ftp/python/3.12.7/python-3.12.7-amd64.exe">python interpreter</a></p><br>
+<p>Just a <a href="https://www.python.org/downloads/">python interpreter</a></p><br>
 <h2>Do not forget!</h2>
 <p>if you are expert, give me some guides to optimize my sights and codes. I appreciate it.</p>
